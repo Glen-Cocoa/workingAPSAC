@@ -1,0 +1,82 @@
+table, th, td {
+  margin:10px 0;
+  border:solid 1px #333;
+  padding:2px 4px;
+  font:15px Verdana;
+  }
+td{
+	max-width:200px;
+	word-wrap: normal;
+	white-space: normal;
+}
+a{
+	background-color:white;
+}
+.link{
+	background-color:transparent;
+}
+.btn-primary{
+	background-color:#7F297D;
+	border-color:#000000;
+}
+.searchButton{
+	width: 200px;
+}
+.toolbarBtn{
+	width:120px;
+}
+.buttonDiv{
+	padding:2px;
+	max-width:0px;
+}
+.btn-primary:hover{
+ background-color: #FFFFFF; background-image: -webkit-gradient(linear, left top, left bottom, from(#FFFFFF), to(#000000));
+ background-image: -webkit-linear-gradient(top, #FFFFFF, #000000);
+ background-image: -moz-linear-gradient(top, #FFFFFF, #000000);
+ background-image: -ms-linear-gradient(top, #FFFFFF, #000000);
+ background-image: -o-linear-gradient(top, #FFFFFF, #000000);
+ background-image: linear-gradient(to bottom, #FFFFFF, #000000);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr=#FFFFFF, endColorstr=#000000);
+}	
+
+.smallLogo{
+	padding-bottom:10px;
+}
+
+th {
+  font-weight:bold;
+  background-color:#7f297d;
+  color:White
+  }
+
+body{
+	background-color: #CBCBCB;
+}
+
+#banner{
+	font-style:italic;
+}
+
+#container {
+	position:absolute;
+	width: 100%; 
+}
+.checkboxDiv{
+	padding: 10px;
+	max-height: 800px;
+	position: fixed;
+}
+
+.querybox{
+	font-size: 0.8em;
+}
+
+.tableDiv{
+ padding: 10px;
+ float:right;
+ max-width:75%;
+ position: relative 20px right;
+}
+
+ul{
+	display:none;
+}

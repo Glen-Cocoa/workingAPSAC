@@ -1,0 +1,29 @@
+{
+"name": "apsac",
+  "version": "1.0.0",
+  "description": "blach",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glen-Cocoa/apsac.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "express": "^4.15.4",
+    "jquery": "3.0.0",
+    "popper.js": "1.11.0",
+    "underscore": "^1.8.3",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Glen-Cocoa/apsac/issues"
+  },
+  "homepage": "https://github.com/Glen-Cocoa/apsac#readme"
+}
