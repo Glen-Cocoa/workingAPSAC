@@ -41,7 +41,6 @@ var excel_data_filter = (function(){
 	module.createBootstrapTable = function(data,table_target){
 		$(table_target).bootstrapTable({
 			data: data,
-			striped:true,  //makes table striped
 			searchable:true,  //adds search bar above table
 			sortOrder: 'asc',  //search order for clicking table headers
 			sortName:"Name of Program",  //default sort on load of table
