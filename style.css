@@ -4,9 +4,6 @@ table, th, td {
   padding:2px 4px;
   font:15px Verdana;
   }
-table{
-  background-color:blanchedalmond;
-  }
 td{
 	max-width:200px;
 	word-wrap: normal;
